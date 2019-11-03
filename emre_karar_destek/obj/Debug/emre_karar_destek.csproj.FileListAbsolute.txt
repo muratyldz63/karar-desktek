@@ -1,0 +1,52 @@
+c:\users\murat\documents\visual studio 2013\Projects\emre_karar_destek\emre_karar_destek\bin\Debug\emre_karar_destek.exe.config
+C:\Users\murat\documents\visual studio 2013\Projects\emre_karar_destek\emre_karar_destek\bin\Debug\emre_karar_destek.exe
+C:\Users\murat\documents\visual studio 2013\Projects\emre_karar_destek\emre_karar_destek\bin\Debug\emre_karar_destek.pdb
+C:\Users\murat\documents\visual studio 2013\Projects\emre_karar_destek\emre_karar_destek\bin\Debug\MySql.Data.dll
+C:\Users\murat\documents\visual studio 2013\Projects\emre_karar_destek\emre_karar_destek\bin\Debug\MySql.Data.xml
+C:\Users\murat\documents\visual studio 2013\Projects\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.csprojResolveAssemblyReference.cache
+C:\Users\murat\documents\visual studio 2013\Projects\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.Form1.resources
+C:\Users\murat\documents\visual studio 2013\Projects\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.OGR_BİLGİ.resources
+C:\Users\murat\documents\visual studio 2013\Projects\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.Properties.Resources.resources
+C:\Users\murat\documents\visual studio 2013\Projects\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.csproj.GenerateResource.Cache
+C:\Users\murat\documents\visual studio 2013\Projects\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.exe.licenses
+C:\Users\murat\documents\visual studio 2013\Projects\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.exe
+C:\Users\murat\documents\visual studio 2013\Projects\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.pdb
+C:\Users\murat\documents\visual studio 2013\Projects\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.TEXT_BASLA.resources
+C:\Users\murat\documents\visual studio 2013\Projects\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.sonuc.resources
+C:\Users\murat\documents\visual studio 2013\Projects\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.sorular.resources
+C:\Users\murat\Desktop\emre_karar_destek\emre_karar_destek\bin\Debug\emre_karar_destek.exe.config
+C:\Users\murat\Desktop\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.exe
+C:\Users\murat\Desktop\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.pdb
+C:\Users\murat\Desktop\emre_karar_destek\emre_karar_destek\bin\Debug\emre_karar_destek.exe
+C:\Users\murat\Desktop\emre_karar_destek\emre_karar_destek\bin\Debug\emre_karar_destek.pdb
+C:\Users\murat\Desktop\emre_karar_destek\emre_karar_destek\bin\Debug\MySql.Data.dll
+C:\Users\murat\Desktop\emre_karar_destek\emre_karar_destek\bin\Debug\MySql.Data.xml
+C:\Users\murat\Desktop\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.Form1.resources
+C:\Users\murat\Desktop\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.OGR_BİLGİ.resources
+C:\Users\murat\Desktop\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.Properties.Resources.resources
+C:\Users\murat\Desktop\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.sonuc.resources
+C:\Users\murat\Desktop\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.sorular.resources
+C:\Users\murat\Desktop\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.tablo.resources
+C:\Users\murat\Desktop\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.TEXT_BASLA.resources
+C:\Users\murat\Desktop\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.exe.licenses
+C:\Users\murat\Desktop\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.grafik.resources
+D:\c#\ozel otomosyonlar\emre_karar_destek\emre_karar_destek\bin\Debug\emre_karar_destek.exe.config
+D:\c#\ozel otomosyonlar\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.exe
+D:\c#\ozel otomosyonlar\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.pdb
+D:\c#\ozel otomosyonlar\emre_karar_destek\emre_karar_destek\bin\Debug\emre_karar_destek.exe
+D:\c#\ozel otomosyonlar\emre_karar_destek\emre_karar_destek\bin\Debug\emre_karar_destek.pdb
+D:\c#\ozel otomosyonlar\emre_karar_destek\emre_karar_destek\bin\Debug\MySql.Data.dll
+D:\c#\ozel otomosyonlar\emre_karar_destek\emre_karar_destek\bin\Debug\MySql.Data.xml
+D:\c#\ozel otomosyonlar\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.csprojResolveAssemblyReference.cache
+D:\c#\ozel otomosyonlar\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.Form1.resources
+D:\c#\ozel otomosyonlar\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.grafik.resources
+D:\c#\ozel otomosyonlar\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.OGR_BİLGİ.resources
+D:\c#\ozel otomosyonlar\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.Properties.Resources.resources
+D:\c#\ozel otomosyonlar\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.sonuc.resources
+D:\c#\ozel otomosyonlar\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.sorular.resources
+D:\c#\ozel otomosyonlar\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.tablo.resources
+D:\c#\ozel otomosyonlar\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.TEXT_BASLA.resources
+D:\c#\ozel otomosyonlar\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.csproj.GenerateResource.Cache
+D:\c#\ozel otomosyonlar\emre_karar_destek\emre_karar_destek\obj\Debug\emre_karar_destek.exe.licenses
